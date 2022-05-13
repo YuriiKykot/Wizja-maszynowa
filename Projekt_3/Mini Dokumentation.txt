@@ -1,0 +1,22 @@
+Zrobiłem po 3 programy dla Brute-Force i FLANN:
+1. Bryte-Force.py i FLAN.py szukaja matchi na wideo i zdjeciu i 
+rysuja prastakat wokół objektu.
+
+Jak podawać parametry:
+-w "video" -i "image"
+
+2. Brute-Force_ForImages.py i FLAN_ForImages.py skukaja matchi na dwoch 
+zdjeciah i rysuja prastakat wokól objektu.
+
+Jak podawać parametry:
+-i1 "image" -i2 "image"
+
+3. Brute-Force_withoutSquare.py i FLAN_withoutSquere.py szukaja matchi
+ale nie rysuja prastakatu.
+
+Jak podawać parametry:
+-w "video" -i "image"
+
+4. Porownanie matchierow: 
+Moim zdaniem i biorąc pod uwagę to, co widziałem podczas działania 
+programów - brute-force działa szybciej niż FLANN.
